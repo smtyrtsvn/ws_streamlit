@@ -4,3 +4,6 @@ numpy
 reportlab
 Pillow
 streamlit
+os
+textwrap
+zipfile
